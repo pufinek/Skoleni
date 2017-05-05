@@ -1,6 +1,6 @@
 # Instalace
 
-1. Před spuštěním .bat souborů je potřeba nainstalovat Node a s ním NPM
+1. Před spuštěním .bat souborů je potřeba nainstalovat [https://nodejs.org/en/](Node) a s ním NPM
 
 2. Spuštěním souboru 'init.bat' dojde k instalaci potřebných balíčků z NPM
 
